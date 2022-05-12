@@ -69,3 +69,4 @@ https://www.w3schools.com/howto/howto_js_topnav.asp  -->
   <a href="เอกชน.php" class="one" >ข้อมูลหน่วยงานเอกชน</a>
   <a href="รัฐ.php" class="one" >ข้อมูลหน่วยงานรัฐบาล</a> 
 </div>
+
